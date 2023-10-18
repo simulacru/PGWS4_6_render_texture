@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BackMirror Material
-  m_Shader: {fileID: -6465566751694194690, guid: 2801fb4f6a3b28449bbb976fddf1259a, type: 3}
+  m_Name: LeftMirror Material
+  m_Shader: {fileID: -6465566751694194690, guid: c56d6f4f6b64dac49aeceb779608a1fe, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_4b5bf67ed6574a9c99753d9d2fb6591f_Texture_1:
-        m_Texture: {fileID: 8400000, guid: 235477443e52ccf4abb23e6f68c2219d, type: 2}
+        m_Texture: {fileID: 8400000, guid: c1a7a03f61fd7504ab6a4a5845c8f9e4, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_5d22a927c7aa495a900be9d9fe056039_Texture_1:
